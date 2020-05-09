@@ -1,0 +1,5 @@
+[submodule "<path>"]
+	ignore = untracked
+[submodule "react"]
+	path = react
+	url = https://github.com/sldstrst/react.git
